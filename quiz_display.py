@@ -9,19 +9,19 @@ BASE_IMAGE_PATH = "indicator_explainer_images"
 # Map indicators to their specific image filenames
 # UPDATED: Supports lists for multiple images
 INDICATOR_IMAGE_MAP = {
-    "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand. Grade 6 - Math": [
+    "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.": [
         "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand..jpg",
         "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand1.jpg"
     ],
-    "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms. Grade 6 - Math": [
+    "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.": [
         "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms..jpg",
         "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms1.jpg"
     ],
-    "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers. Grade 6 - Math": [
+    "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.": [
         "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers..jpg",
         "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers1..jpg"
     ],
-    "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order. Grade 6 - Math": [
+    "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order.": [
         "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order..jpg"
     ]
 }
@@ -55,7 +55,7 @@ def main():
     # Iterate through each indicator in the JSON file
     for indicator_name, quiz_content in quiz_data.items():
         with st.container():
-            st.subheader(f"Indicator: {indicator_name}")
+            st.subheader(f"Indicator: {indicator_name} - Grade 6 - Math")
             
             # --- 1. Display Visual Learning Aids (Images) ---
             image_files = INDICATOR_IMAGE_MAP.get(indicator_name)
