@@ -1,0 +1,298 @@
+{
+    "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.": {
+        "indicator": "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.",
+        "questions": [
+            {
+                "question_text": "A video game character collected treasure. They found 4 large treasure chests (worth 1,000 gold coins each), 9 single gold coins, and 6 flat treasure maps (worth 100 gold coins each). How many gold coins did they collect in total?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4,960"
+                    },
+                    {
+                        "label": "B",
+                        "text": "469"
+                    },
+                    {
+                        "label": "C",
+                        "text": "4,609"
+                    },
+                    {
+                        "label": "D",
+                        "text": "4,069"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The character has 4 thousands (4,000), 6 hundreds (600), and 9 ones (9). There are no tens. When you put these together in the correct place value order, you get 4,000 + 600 + 9 = 4,609."
+            },
+            {
+                "question_text": "Imagine a number line that starts at 5,400 and ends at 5,500. The middle point is 5,450. If you place the number 5,482 on this number line, what is 5,482 rounded to the nearest hundred?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "5,400"
+                    },
+                    {
+                        "label": "B",
+                        "text": "5,500"
+                    },
+                    {
+                        "label": "C",
+                        "text": "5,450"
+                    },
+                    {
+                        "label": "D",
+                        "text": "5,480"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The number 5,482 is greater than the midpoint of 5,450. This means it is closer to the higher end of the number line, which is 5,500. When rounding to the nearest hundred, we look at the tens digit. Since 8 is 5 or greater, we round up to 5,500."
+            },
+            {
+                "question_text": "A secret code is a number created by adding these values together: 700 + 4,000 + 9. What is the secret code number written in standard form?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4,790"
+                    },
+                    {
+                        "label": "B",
+                        "text": "749"
+                    },
+                    {
+                        "label": "C",
+                        "text": "4,079"
+                    },
+                    {
+                        "label": "D",
+                        "text": "4,709"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "To find the standard form, you put each value in its correct place. The number has 4 in the thousands place (4,000), 7 in the hundreds place (700), 0 in the tens place (since no tens are mentioned), and 9 in the ones place (9). This makes the number 4,709."
+            }
+        ]
+    },
+    "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.": {
+        "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
+        "questions": [
+            {
+                "question_text": "A secret agent needs to crack a 4-digit code. The clue she found says the code is the sum of these numbers: 600 + 7 + 9,000. What is the code in standard form?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "679"
+                    },
+                    {
+                        "label": "B",
+                        "text": "9,607"
+                    },
+                    {
+                        "label": "C",
+                        "text": "6,007"
+                    },
+                    {
+                        "label": "D",
+                        "text": "9,067"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "To find the standard form, you need to add the values for each place. The number has 9 in the thousands place (9,000), 6 in the hundreds place (600), 0 in the tens place (since no tens are mentioned), and 7 in the ones place (7). This makes the number 9,607."
+            },
+            {
+                "question_text": "The highest mountain in a fictional land is 'seven thousand, six hundred two' feet tall. Which of the following shows the height of the mountain in standard form?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "7,620"
+                    },
+                    {
+                        "label": "B",
+                        "text": "7,062"
+                    },
+                    {
+                        "label": "C",
+                        "text": "7,602"
+                    },
+                    {
+                        "label": "D",
+                        "text": "762"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The verbal form 'seven thousand, six hundred two' translates to digits. 'Seven thousand' is 7,000. 'Six hundred' is 600. 'Two' is 2. Since there are no tens mentioned, we use a 0 as a placeholder in the tens place. So, the number is 7,602."
+            },
+            {
+                "question_text": "Alex is comparing the populations of two small towns, Crestwood and Pine Valley. Crestwood's population is 8,000 + 400 + 3. Pine Valley's population is 'eight thousand, four hundred thirty.' Which statement is true?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Crestwood has a larger population."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Pine Valley has a larger population."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both towns have the same population."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pine Valley's population is 8,403."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "First, write both populations in standard form. Crestwood's population is 8,000 + 400 + 3 = 8,403. Pine Valley's population, 'eight thousand, four hundred thirty,' is 8,430. When you compare 8,430 and 8,403, you can see that 8,430 is the larger number."
+            }
+        ]
+    },
+    "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.": {
+        "indicator": "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.",
+        "questions": [
+            {
+                "question_text": "Imagine a character climbing a very tall staircase where the steps are numbered in order. They see the numbers 4,998, 4,999, _____, 5,001. What is the number of the missing step they must climb on?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4,997"
+                    },
+                    {
+                        "label": "B",
+                        "text": "5,000"
+                    },
+                    {
+                        "label": "C",
+                        "text": "5,002"
+                    },
+                    {
+                        "label": "D",
+                        "text": "5,010"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "When you climb stairs, the numbers go up. This is called ascending order. The number that comes right after 4,999 is 5,000. Then comes 5,001. So, the missing step is 5,000."
+            },
+            {
+                "question_text": "A character is walking down a grand staircase from the top floor. They decide to take big steps, jumping down and skipping by hundreds. If they start on step 7,500, which sequence shows the next three steps they will land on?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "7,499, 7,498, 7,497"
+                    },
+                    {
+                        "label": "B",
+                        "text": "7,600, 7,700, 7,800"
+                    },
+                    {
+                        "label": "C",
+                        "text": "7,400, 7,300, 7,200"
+                    },
+                    {
+                        "label": "D",
+                        "text": "6,500, 5,500, 4,500"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Walking down means the numbers are descending, or getting smaller. Skipping by hundreds means you subtract 100 each time. Starting from 7,500, the next steps are 7,500 - 100 = 7,400, then 7,400 - 100 = 7,300, and then 7,300 - 100 = 7,200."
+            },
+            {
+                "question_text": "A friendly frog is playing a jumping game on a path of numbered stones. The frog starts at stone 28 and decides to only jump on stones with even numbers, going up. Which path shows the next three stones the frog will jump on?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "30, 32, 34"
+                    },
+                    {
+                        "label": "B",
+                        "text": "29, 30, 31"
+                    },
+                    {
+                        "label": "C",
+                        "text": "26, 24, 22"
+                    },
+                    {
+                        "label": "D",
+                        "text": "38, 48, 58"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "The frog is jumping on even numbers in ascending (going up) order. This is like skip counting by two. Starting from the even number 28, the next even number is 30, then 32, and then 34."
+            }
+        ]
+    },
+    "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order.": {
+        "indicator": "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order.",
+        "questions": [
+            {
+                "question_text": "Imagine you are playing a video game where you climb a tower. Each floor has a different number of points. To win, you must climb the floors in ascending order (from the smallest point value to the largest). Which path shows the correct order to climb the floors with point values 4,589, 4,859, 4,598, and 4,895?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4,589 < 4,598 < 4,859 < 4,895"
+                    },
+                    {
+                        "label": "B",
+                        "text": "4,895 < 4,859 < 4,598 < 4,589"
+                    },
+                    {
+                        "label": "C",
+                        "text": "4,589 < 4,859 < 4,598 < 4,895"
+                    },
+                    {
+                        "label": "D",
+                        "text": "4,598 < 4,589 < 4,895 < 4,859"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "Ascending order means going from smallest to largest. First, compare the thousands place (all are 4). Then, compare the hundreds place. 4,589 and 4,598 are smaller than 4,859 and 4,895. Between 4,589 and 4,598, 4,589 is smaller. Between 4,859 and 4,895, 4,859 is smaller. So the correct order is 4,589, 4,598, 4,859, 4,895."
+            },
+            {
+                "question_text": "A scientist is organizing her notes on the heights of four mountains she studied. She wants to list them in descending order, like walking down a set of stairs from the tallest mountain to the shortest. The heights are 8,109 feet, 8,190 feet, 8,099 feet, and 8,119 feet. Which list is correct?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "8,099 > 8,109 > 8,119 > 8,190"
+                    },
+                    {
+                        "label": "B",
+                        "text": "8,190 > 8,119 > 8,109 > 8,099"
+                    },
+                    {
+                        "label": "C",
+                        "text": "8,099 < 8,109 < 8,119 < 8,190"
+                    },
+                    {
+                        "label": "D",
+                        "text": "8,190 > 8,109 > 8,119 > 8,099"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Descending order means from largest to smallest. First, compare the thousands place (all are 8). Then, compare the hundreds place. 8,099 is smallest and will be last. For the others (8,109, 8,190, 8,119), compare the tens place. 8,190 is the largest, followed by 8,119, then 8,109. The correct order is 8,190, 8,119, 8,109, 8,099."
+            },
+            {
+                "question_text": "Four friends are collecting bottle caps. Maria has 5,567 caps, Leo has 5,657 caps, Sam has 5,675 caps, and Chloe has 5,765 caps. If we arranged their totals on a set of stairs getting bigger with each step, like this: 5,567 [ ? ] 5,657 [ ? ] 5,675 [ ? ] 5,765, what symbol should go in the boxes and what order are the numbers in?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The symbol is > and the order is descending."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The symbol is = and the order is equal."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The symbol is < and the order is descending."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The symbol is < and the order is ascending."
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "The numbers are getting bigger with each step (5,567, 5,657, 5,675, 5,765). When numbers go from smallest to largest, it is called ascending order. The 'less than' symbol (<) is used to show that the number on the left is smaller than the number on the right."
+            }
+        ]
+    }
+}
