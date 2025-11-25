@@ -1,0 +1,505 @@
+{
+    "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.": {
+        "indicator": "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.",
+        "questions": [
+            {
+                "question_text": "Look at the 'Representing with Base-Ten Blocks' section in the diagram. If you took away one of the 'Hundreds' blocks (the flat squares) and added three 'Ones' blocks (the small cubes), what new number would be represented?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1,150"
+                    },
+                    {
+                        "label": "B",
+                        "text": "1,240"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1,147"
+                    },
+                    {
+                        "label": "D",
+                        "text": "1,150"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "The original number is 1,247. The diagram shows two 'Hundreds' blocks (200) and seven 'Ones' blocks (7). Taking away one 'Hundreds' block leaves 100. Adding three 'Ones' blocks makes a total of ten 'Ones' blocks (10). So, the new number is 1,000 + 100 + 40 + 10 = 1,150."
+            },
+            {
+                "question_text": "In the picture, look at the number line at the bottom. The red dot shows 1,247. Based on its position between the tick marks, what would 1,247 be if you rounded it to the nearest ten?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1,200"
+                    },
+                    {
+                        "label": "B",
+                        "text": "1,240"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1,250"
+                    },
+                    {
+                        "label": "D",
+                        "text": "1,300"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The number line shows that 1,247 is located between the tick marks for 1,240 and 1,250. Since the red dot is visually closer to the 1,250 mark, we round up to 1,250 when rounding to the nearest ten."
+            },
+            {
+                "question_text": "Imagine the number in the Place Value Chart changed to 1,307. How would you need to change the Base-Ten Blocks shown in the picture to represent this new number?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Add one 'Hundreds' block and take away four 'Tens' rods."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Add one 'Thousands' block and seven 'Ones' blocks."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Take away two 'Hundreds' blocks and add seven 'Tens' rods."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Add one 'Hundreds' block and add three 'Tens' rods."
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "The original number is 1,247. The new number is 1,307. The 'Thousands' and 'Ones' places are the same. The 'Hundreds' place changes from 2 to 3, so you need to add one 'Hundreds' block. The 'Tens' place changes from 4 to 0, so you need to take away all four 'Tens' rods."
+            },
+            {
+                "question_text": "Look at the top number line, 'Rounding to the Nearest Ten'. The diagram shows that 1247 rounds UP to 1250. What is the visual reason for this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Because the arrow is long and points to the right."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Because the red dot for 1247 is past the middle bump at 1245."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Because 1250 is a bigger number than 1240."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Because the last digit of 1247 is a 7."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Correct! The number line shows a 'midpoint' at 1245. Since the red dot for 1247 is on the right side of this midpoint, it is closer to 1250, so it rounds up."
+            },
+            {
+                "question_text": "In the picture for 'Rounding to the Nearest Hundred', imagine a new number, 1281, is placed on the number line. Based on how the number line is set up and how 1247 rounds, what would happen to 1281?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It would round down to 1200 because it's on the same line as 1247."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It would round up to 1300 because it would be to the right of the midpoint, 1250."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It would round to the nearest ten, which is 1280."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It would stay at 1281 because it's not on the diagram."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "That's right! The midpoint on the 'Nearest Hundred' number line is 1250. The number 1281 would be located to the right of 1250, making it closer to 1300. Therefore, it would round up to 1300."
+            },
+            {
+                "question_text": "Looking at all three number lines, the number 1247 rounds to a different answer each time. How does the diagram show why this happens?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The red dot for 1247 moves to a different spot on each number line."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The arrows get longer on each number line."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Rounding to a different place value (Ten, Hundred, or Thousand) changes the endpoints and midpoint of the number line."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Rounding down happens more often than rounding up in the diagram."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Exactly! The diagram shows that when you round to the nearest Ten, the endpoints are 1240 and 1250. When you round to the nearest Hundred, the endpoints are 1200 and 1300. Changing the place value you're rounding to changes the section of the number line you are looking at, which changes the closest rounded number."
+            }
+        ]
+    },
+    "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.": {
+        "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
+        "questions": [
+            {
+                "question_text": "Look at the diagram for the number 2,438. In the 'Expanded Form' box, the number '400' is shown. Which digit in the 'Standard Form' box does this '400' represent the value of?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The 2"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The 4"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The 3"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The 8"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Correct! The diagram shows the number 2,438. The digit '4' is in the hundreds place. In the expanded form, this is written as '400' to show its value (4 x 100)."
+            },
+            {
+                "question_text": "In the picture, the 'Verbal Form' is 'two thousand, four hundred thirty-eight'. If the digit '8' in the standard form was changed to a '0', how would the 'Expanded Form' shown in the diagram change?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The expanded form would not change."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It would become 2,000 + 400 + 80"
+                    },
+                    {
+                        "label": "C",
+                        "text": "It would become 2,000 + 400 + 30"
+                    },
+                    {
+                        "label": "D",
+                        "text": "It would become 0 + 400 + 30 + 8"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Excellent! The diagram shows the expanded form is the sum of the value of each digit. The digit '8' is in the ones place, so its value is 8. If it were changed to a '0', its value would be 0, so the '+ 8' would be removed, leaving 2,000 + 400 + 30."
+            },
+            {
+                "question_text": "The diagram shows how to write 2,438 in three different forms. Imagine a new number where the verbal form is 'six thousand, nine hundred two'. Based on how the forms are related in the picture, what would the expanded form of this new number be?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "6,000 + 900 + 20"
+                    },
+                    {
+                        "label": "B",
+                        "text": "600 + 90 + 2"
+                    },
+                    {
+                        "label": "C",
+                        "text": "6,000 + 90 + 2"
+                    },
+                    {
+                        "label": "D",
+                        "text": "6,000 + 900 + 2"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "Great job! The verbal form 'six thousand, nine hundred two' tells us there is a 6 in the thousands place (6,000), a 9 in the hundreds place (900), and a 2 in the ones place (2). There is no mention of 'tens', so the tens place has a value of 0. Following the logic from the diagram, the expanded form is 6,000 + 900 + 2."
+            },
+            {
+                "question_text": "Look at the 'Expanded Form' box on the left. The diagram shows that the number 5,904 has '0 tens'. Why is the number '0' left out of the final addition sentence, 5,000 + 900 + 4?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Because adding zero does not change the total value of the number."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Because the diagram made a mistake and forgot to include it."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Because you only write the first two numbers and the last number."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Because expanded form can't have more than three numbers added together."
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "Correct! As shown in step 3 in the 'Expanded Form' box, there is a zero in the tens place. When we write a number in expanded form, we are showing the value of each digit. Since the value of the zero is just zero, adding it to the other values (5,000 + 900 + 4 + 0) doesn't change the final answer, so we can leave it out to write it more simply."
+            },
+            {
+                "question_text": "In the 'Verbal Form' box, the picture gives an important tip: 'Don't say 'zero' or 'and'!' Following the example shown for 5,904, how would you correctly write the number 7,060 in verbal form?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Seven thousand and sixty."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Seven thousand, zero hundred sixty."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Seven sixty."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Seven thousand, sixty."
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "Great job! The diagram shows that when there is a zero in a place value, we just skip it when we read the number out loud. For 5,904, we skip the tens place. For the number 7,060, we would say 'seven thousand' for the 7, skip the hundreds place because of the 0, and then say 'sixty' for the 60. This gives us 'Seven thousand, sixty'."
+            },
+            {
+                "question_text": "Look at the pictures of the blocks used in the 'Expanded Form' box. A large cube is used for 5,000, flat shapes are used for 900, and small single cubes are for 4. If you were to build the number 3,205 using these same types of blocks, what would you need?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "3 large cubes, 2 flat shapes, and 5 small cubes."
+                    },
+                    {
+                        "label": "B",
+                        "text": "3 flat shapes, 2 tens sticks, and 5 small cubes."
+                    },
+                    {
+                        "label": "C",
+                        "text": "5 large cubes, 0 flat shapes, 2 tens sticks, and 3 small cubes."
+                    },
+                    {
+                        "label": "D",
+                        "text": "3 large cubes, 2 flat shapes, and 5 tens sticks."
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "That's right! By analyzing the diagram, we see that large cubes represent thousands, flat shapes represent hundreds, and small single cubes represent ones. To build 3,205, you would need 3 thousands (3 large cubes), 2 hundreds (2 flat shapes), 0 tens, and 5 ones (5 small cubes)."
+            }
+        ]
+    },
+    "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.": {
+        "indicator": "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.",
+        "questions": [
+            {
+                "question_text": "Look at the first two pictures showing the boy on the stairs. If you are on floor 7 of a building and take the elevator down to floor 2, which picture shows the way the floor numbers are changing and why?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The 'Ascending' picture, because the numbers are getting bigger."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The 'Descending' picture, because the numbers are getting smaller."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The 'Skip Counting' picture, because you are jumping floors."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The 'Descending' picture, because the numbers are getting bigger."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Going from floor 7 down to floor 2 is an example of counting down. The 'Descending (Counting Down)' picture shows the boy walking down the stairs, and the arrow points down with the label 'Gets Smaller!', which is exactly what happens to the floor numbers (7, 6, 5, 4, 3, 2)."
+            },
+            {
+                "question_text": "In the 'Skip Counting' picture, the frog is jumping forward and the numbers get bigger. What if the frog started at the number 25 and made two jumps *backwards* using the 'Jump by 5s' rule shown in the diagram?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It would land on 35."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It would land on 20."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It would land on 15."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It would land on 5."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The diagram shows that jumping by 5s means counting in steps of five (5, 10, 15, 20...). If the frog starts at 25 and jumps backwards by 5, the first jump lands on 20 (25 - 5). The second jump backwards from 20 lands on 15 (20 - 5)."
+            },
+            {
+                "question_text": "Look at the 'Skip Counting' frog. Imagine the frog starts at the number 2000. It first makes one 'Jump by 1000s' forward, and then immediately makes one 'Jump by 100s' backward. Following the rules for how the jumps work in the picture, where does the frog end up?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "3100"
+                    },
+                    {
+                        "label": "B",
+                        "text": "1900"
+                    },
+                    {
+                        "label": "C",
+                        "text": "2900"
+                    },
+                    {
+                        "label": "D",
+                        "text": "2100"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The picture shows a 'Jump by 1000s' adds 1000, and a 'Jump by 100s' can add or subtract 100. Starting at 2000, a jump forward by 1000 gets the frog to 3000 (2000 + 1000). From 3000, a jump backward by 100 gets the frog to 2900 (3000 - 100)."
+            },
+            {
+                "question_text": "Look at the 'Even Numbers' side of the picture. The robots are all in pairs because 'Everyone has a buddy!'. If you had a group of 8,724 robots, would every robot have a buddy? How does the diagram help you decide?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "No, because the first digit is 8, which is shown in the odd numbers rule."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Yes, because the picture says to look at the LAST digit, and the rule for even numbers includes 4."
+                    },
+                    {
+                        "label": "C",
+                        "text": "No, because the number is very large."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Yes, because the odd robot is on the other side."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Correct! The diagram tells us to 'Look at the LAST digit to decide!'. The last digit of 8,724 is 4. The rule on the blue 'Even Numbers' side shows that if the last digit is 0, 2, 4, 6, or 8, the number is even. This means every robot would have a buddy."
+            },
+            {
+                "question_text": "In the picture, the lonely robot on the 'Odd Numbers' side says 'There's an odd one out!'. Imagine a group of 357 robots trying to pair up. Would there be an 'odd one out' like the robot in the picture? Why does the diagram show this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "No, because the first digit, 3, is an odd number."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Yes, because the last digit is 7, and the rule for odd numbers includes 7."
+                    },
+                    {
+                        "label": "C",
+                        "text": "No, because 357 is smaller than the example 457."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Yes, because there are three robots in the number."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "That's right! The main rule is to look at the last digit. The last digit of 357 is 7. The rule on the orange 'Odd Numbers' side includes the digit 7. This means 357 is an odd number, so there would be one robot left over, just like the 'odd one out' in the picture."
+            },
+            {
+                "question_text": "A new robot holding a sign with the number 2,910 wants to join a group. Using the rules shown in the diagram, which side should it go on and why?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The 'Odd Numbers' side, because the number has a 9 and a 1 in it."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The 'Even Numbers' side, because the first digit is 2."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The 'Odd Numbers' side, because 2,910 is a big number."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The 'Even Numbers' side, because its last digit is 0, so everyone will have a buddy."
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "Excellent! The diagram's most important rule is to 'Look at the LAST digit'. The last digit of 2,910 is 0. The rule on the blue 'Even Numbers' side says numbers ending in 0 are even. This means it belongs on the Even side, where all the robots can be paired up with a buddy."
+            }
+        ]
+    },
+    "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order.": {
+        "indicator": "4. Comparing and ordering numbers up to four digits using symbols (>, <, =) in ascending and descending order.",
+        "questions": [
+            {
+                "question_text": "Look at the 'Ascending Order' diagram. The arrow shows the numbers are 'Getting Bigger!' as they go up the stairs. How do the numbers and symbols on the stairs prove this is true?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The numbers all start with a 2, except for the first one."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The '<' symbol is used, which looks like an arrow pointing up the stairs."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Each number is larger than the number on the step below it, and the '<' symbol points to the smaller number."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The last number, 2,190, is on the highest step."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Correct! In ascending order, the numbers increase in value. The diagram shows this by having each new step be a larger number than the one before it (e.g., 2,100 is greater than 1,999). The 'less than' symbol (<) correctly shows this relationship, as it always opens towards the larger number (e.g., 1,999 < 2,100)."
+            },
+            {
+                "question_text": "In the picture for 'Descending Order', the stairs go down and the arrow says 'Getting Smaller!'. If you were to add a new step for the number 2,050, where would it be placed to keep the order correct?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Between 2,190 and 2,109"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Between 2,109 and 2,100"
+                    },
+                    {
+                        "label": "C",
+                        "text": "At the very top, before 2,190"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Between 2,100 and 1,999"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "Great job! In descending order, we go from largest to smallest. Looking at the steps, 2,050 is smaller than 2,100 but larger than 1,999. So, a new step for 2,050 would fit right between the steps for 2,100 and 1,999."
+            },
+            {
+                "question_text": "Look at the diagram for both Ascending and Descending order. What is the relationship between the direction of the stairs and the type of symbol ('>' or '<') used?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "When the stairs go up (Ascending), the '<' symbol is used. When the stairs go down (Descending), the '>' symbol is used."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The symbols are chosen randomly to separate the numbers on the stairs."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both diagrams use the '>' symbol because it points to the right."
+                    },
+                    {
+                        "label": "D",
+                        "text": "When the stairs go up (Ascending), the '>' symbol is used. When the stairs go down (Descending), the '<' symbol is used."
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "That's right! The picture shows a pattern. For Ascending order (going up), the '<' (less than) symbol is used to show the number on the left is smaller than the next number on the right. For Descending order (going down), the '>' (greater than) symbol is used to show the number on the left is larger than the next one on the right."
+            }
+        ]
+    }
+}
