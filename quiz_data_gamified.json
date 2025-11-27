@@ -1,0 +1,418 @@
+{
+    "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.": {
+        "indicator": "1. Understanding place value and representing numbers using models, graphs, and number lines, rounding to the nearest ten, hundred, or thousand.",
+        "questions": [
+            {
+                "question_text": "Look at Hill 1. The cart is carrying the number 5. In the Rounding Rollercoaster game, the number 5 has a special engine that always pushes it over the peak! Based on the rounding rule, where will this cart end up?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It rolls back to 0"
+                    },
+                    {
+                        "label": "B",
+                        "text": "It stays at the peak"
+                    },
+                    {
+                        "label": "C",
+                        "text": "It rolls forward to 10"
+                    },
+                    {
+                        "label": "D",
+                        "text": "It flies off the track"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Even though it looks like a steep climb, the math rule for rounding is: '5 or more, round up.' So, 5 rounds up to 10."
+            },
+            {
+                "question_text": "Look at Hill 2. The cart number is 280. The track starts at 200 and ends at 300. Why is the cart zooming down towards 300?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Because 280 is closer to 200."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Because 280 is greater than the midpoint (250) and closer to 300."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Because the cart is out of gas."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Because 280 is a small number."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The midpoint between 200 and 300 is 250. Since 280 is higher than 250, it rounds up (rolls down) to 300."
+            },
+            {
+                "question_text": "Look at Hill 3. The track goes from 500 to 600. The cart with the ? is very close to the start of the hill. Which number is most likely inside that cart?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "590"
+                    },
+                    {
+                        "label": "B",
+                        "text": "550"
+                    },
+                    {
+                        "label": "C",
+                        "text": "515"
+                    },
+                    {
+                        "label": "D",
+                        "text": "605"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The cart is near the bottom left, close to 500. 590 and 550 would be much higher up or on the other side. 515 is the best estimate for that position."
+            }
+        ]
+    },
+    "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.": {
+        "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
+        "questions": [
+            {
+                "question_text": "Look at the Camel Caravan. The first camel carries 4,000, the third carries 30, and the last carries 5. If you combine these sacks to check the destination, what is the total number?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4,305"
+                    },
+                    {
+                        "label": "B",
+                        "text": "4,035"
+                    },
+                    {
+                        "label": "C",
+                        "text": "4,350"
+                    },
+                    {
+                        "label": "D",
+                        "text": "4,005"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "To find the standard form, we add the expanded parts: 4,000 + 30 + 5. There are no hundreds, so we put a 0 in the hundreds place. The total is 4,035."
+            },
+            {
+                "question_text": "Look at the gap in the line between the 4,000 camel and the 30 camel. There is no camel carrying 'Hundreds'. What digit does this represent in the final number?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1"
+                    },
+                    {
+                        "label": "B",
+                        "text": "100"
+                    },
+                    {
+                        "label": "C",
+                        "text": "0"
+                    },
+                    {
+                        "label": "D",
+                        "text": "9"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "In place value, if a value (like hundreds) is missing from the expanded form, we must use the digit 0 as a placeholder in that spot (4, _ 3 5)."
+            },
+            {
+                "question_text": "Compare the lead camel to the last camel. Why is the first camel so much larger than the last one?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Because 4,000 is one thousand times greater than 4."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Because the Thousands place has a much higher value than the Ones place."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Because it is older."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Because 5 is actually larger than 4,000."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The position of a digit determines its value. The 4 is in the Thousands place (value 4,000), while the 5 is in the Ones place (value 5). Thousands are much larger than Ones."
+            }
+        ]
+    },
+    "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.": {
+        "indicator": "3. Counting number in ascending, descending, and jumping of (two, five, ten, hundred, and thousands), and determining even and odd numbers.",
+        "questions": [
+            {
+                "question_text": "Look at the arrows pointing up. To move from the 'Ones' level at the bottom to the 'Tens' level in the middle, the coins must be grouped together. How many 'Ones' coins does it take to make exactly one 'Ten' stack?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "5 coins"
+                    },
+                    {
+                        "label": "B",
+                        "text": "100 coins"
+                    },
+                    {
+                        "label": "C",
+                        "text": "10 coins"
+                    },
+                    {
+                        "label": "D",
+                        "text": "1 coin"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "In the base-ten system, you need exactly 10 ones to create 1 ten. This allows you to move up one step in the palace."
+            },
+            {
+                "question_text": "Look at the explorer on the middle level. He is holding a bag labeled 50. Since he is standing on the 'Tens' level, how many groups of ten are inside that bag?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "5 groups of ten"
+                    },
+                    {
+                        "label": "B",
+                        "text": "50 groups of ten"
+                    },
+                    {
+                        "label": "C",
+                        "text": "500 groups of ten"
+                    },
+                    {
+                        "label": "D",
+                        "text": "0 groups of ten"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "The number 50 is made of 5 tens (10 + 10 + 10 + 10 + 10). If you look at the digit in the tens place, it is a 5."
+            },
+            {
+                "question_text": "Look at the very top of the palace. There are 3 large treasure chests on the 'Hundreds' level. If each chest is worth 100 gold coins, what is the total value of the treasure at the top?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "30"
+                    },
+                    {
+                        "label": "B",
+                        "text": "300"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1,300"
+                    },
+                    {
+                        "label": "D",
+                        "text": "3,000"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "You count the hundreds place by counting the chests. 100, 200, 300. There are 3 chests, so the value is 300."
+            }
+        ]
+    },
+    "5. Computing the distance between two points in the coordinate plane, and finding the coordinates of the midpoint.": {
+        "indicator": "5. Computing the distance between two points in the coordinate plane, and finding the coordinates of the midpoint.",
+        "questions": [
+            {
+                "question_text": "Player F wants to pass the ball to Player W. Since the pass goes in a straight horizontal line, counting the grid squares helps us find the distance. What is the total length of the pass from Player F to Player W?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "4 units"
+                    },
+                    {
+                        "label": "B",
+                        "text": "0 units"
+                    },
+                    {
+                        "label": "C",
+                        "text": "8 units"
+                    },
+                    {
+                        "label": "D",
+                        "text": "6 units"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Player F is at -4 and Player W is at 4. The vertical position (y=3) stays the same. The difference is 4 - (-4) = 8."
+            },
+            {
+                "question_text": "A Defender (Red Circle on the yellow line) manages to block the pass exactly halfway between Player F and Player W. What are the coordinates of this interception point?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "(0, 0)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "(0, 3)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "(3, 0)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "(-2, 3)"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The halfway point between x=-4 and x=4 is 0. Since the pass is on the line y=3, the midpoint is (0, 3)."
+            },
+            {
+                "question_text": "Look at Player F's position at coordinates (-4, 3). Based on the grid, which quadrant of the field is Player F standing in?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Quadrant I (Top Right)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Quadrant II (Top Left)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Quadrant III (Bottom Left)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Quadrant IV (Bottom Right)"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Quadrant II has negative x (left) and positive y (up). Player F (-4, 3) fits this description."
+            },
+            {
+                "question_text": "The drone flies in a straight line from the Warehouse (origin) to the Target Delivery (6, 8). Assuming a linear path, which equation represents the drone’s flight trajectory?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "y = 3/4x + 8"
+                    },
+                    {
+                        "label": "B",
+                        "text": "y = 4/3x"
+                    },
+                    {
+                        "label": "C",
+                        "text": "y = 3/4x"
+                    },
+                    {
+                        "label": "D",
+                        "text": "y = 4x + 3"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "To find the equation (y = mx + b), we first calculate the slope (m). m = (8-0)/(6-0) = 4/3. Since the line starts at the origin (0,0), the y-intercept (b) is 0. Therefore, the equation is y = 4/3x."
+            },
+            {
+                "question_text": "We know the straight-line distance to the target is 10 units. If the drone travels at a constant speed of 2.5 units per second, how many seconds will it take to reach the target?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "2.5 seconds"
+                    },
+                    {
+                        "label": "B",
+                        "text": "4.0 seconds"
+                    },
+                    {
+                        "label": "C",
+                        "text": "25.0 seconds"
+                    },
+                    {
+                        "label": "D",
+                        "text": "0.4 seconds"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "This requires the formula: Time = Distance / Speed. We established the distance is 10 units. Time = 10 / 2.5 = 4 seconds."
+            },
+            {
+                "question_text": "The drone drops a signal beacon exactly when it has completed 75% of its journey to the target. What are the coordinates of this drop point?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "(4.5, 6)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "(4, 6)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "(3, 4)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "(8, 10.6)"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "We need to find a point that is 0.75 of the way from (0,0) to (6,8). x = 0.75 * 6 = 4.5. y = 0.75 * 8 = 6. The coordinates are (4.5, 6)."
+            }
+        ]
+    },
+    "6. Utilizing the concept of percentage to determine a missing value when given two of the following: percentage, whole, and part.": {
+        "indicator": "6. Utilizing the concept of percentage to determine a missing value when given two of the following: percentage, whole, and part.",
+        "questions": [
+            {
+                "question_text": "Look at the download bar. We know the Total File Size (Whole) is 50 GB and the download is 20% Complete. Based on this, calculate how many GBs have been downloaded so far.",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "20 GB"
+                    },
+                    {
+                        "label": "B",
+                        "text": "10 GB"
+                    },
+                    {
+                        "label": "C",
+                        "text": "5 GB"
+                    },
+                    {
+                        "label": "D",
+                        "text": "2.5 GB"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "To find the part, multiply the Whole (50) by the percentage (0.20). 50 * 0.20 = 10 GB."
+            },
+            {
+                "question_text": "Look at the 'Storage Usage' bar on the phone screen. It says '45 GB Used / 60 GB Total'. What percentage of the phone's storage is full?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "45%"
+                    },
+                    {
+                        "label": "B",
+                        "text": "60%"
+                    },
+                    {
+                        "label": "C",
+                        "text": "75%"
+                    },
+                    {
+                        "label": "D",
+                        "text": "80%"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "To find the percentage, divide the Part (45) by the Whole (60). 45 ÷ 60 = 0.75, which is 75%."
+            }
+        ]
+    }
+}
