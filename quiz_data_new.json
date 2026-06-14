@@ -146,142 +146,73 @@
         "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
         "questions": [
             {
-                "question_text": "Look at the diagram for the number 2,438. In the 'Expanded Form' box, the number '400' is shown. Which digit in the 'Standard Form' box does this '400' represent the value of?",
+                "question_text": "Look at the image showing blocks representing a number (2 thousands blocks, 3 hundreds blocks, 4 tens blocks, and 5 ones blocks). What is the number in standard form?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "The 2"
+                        "text": "2435"
                     },
                     {
                         "label": "B",
-                        "text": "The 4"
+                        "text": "2345"
                     },
                     {
                         "label": "C",
-                        "text": "The 3"
+                        "text": "5432"
                     },
                     {
                         "label": "D",
-                        "text": "The 8"
+                        "text": "2000 + 300 + 40 + 5"
                     }
                 ],
                 "correct_option_label": "B",
-                "explanation": "Correct! The diagram shows the number 2,438. The digit '4' is in the hundreds place. In the expanded form, this is written as '400' to show its value (4 x 100)."
+                "explanation": "The image shows 2 thousands, 3 hundreds, 4 tens, and 5 ones, which combine to form 2345."
             },
             {
-                "question_text": "In the picture, the 'Verbal Form' is 'two thousand, four hundred thirty-eight'. If the digit '8' in the standard form was changed to a '0', how would the 'Expanded Form' shown in the diagram change?",
+                "question_text": "Based on the diagram of the abacus showing 1 bead in the thousands place, 0 beads in the hundreds place, 7 beads in the tens place, and 8 beads in the ones place, how would you write the number in words?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "The expanded form would not change."
+                        "text": "One thousand seventy-eight"
                     },
                     {
                         "label": "B",
-                        "text": "It would become 2,000 + 400 + 80"
+                        "text": "One thousand seven hundred eight"
                     },
                     {
                         "label": "C",
-                        "text": "It would become 2,000 + 400 + 30"
+                        "text": "One hundred seventy-eight"
                     },
                     {
                         "label": "D",
-                        "text": "It would become 0 + 400 + 30 + 8"
-                    }
-                ],
-                "correct_option_label": "C",
-                "explanation": "Excellent! The diagram shows the expanded form is the sum of the value of each digit. The digit '8' is in the ones place, so its value is 8. If it were changed to a '0', its value would be 0, so the '+ 8' would be removed, leaving 2,000 + 400 + 30."
-            },
-            {
-                "question_text": "The diagram shows how to write 2,438 in three different forms. Imagine a new number where the verbal form is 'six thousand, nine hundred two'. Based on how the forms are related in the picture, what would the expanded form of this new number be?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "6,000 + 900 + 20"
-                    },
-                    {
-                        "label": "B",
-                        "text": "600 + 90 + 2"
-                    },
-                    {
-                        "label": "C",
-                        "text": "6,000 + 90 + 2"
-                    },
-                    {
-                        "label": "D",
-                        "text": "6,000 + 900 + 2"
-                    }
-                ],
-                "correct_option_label": "D",
-                "explanation": "Great job! The verbal form 'six thousand, nine hundred two' tells us there is a 6 in the thousands place (6,000), a 9 in the hundreds place (900), and a 2 in the ones place (2). There is no mention of 'tens', so the tens place has a value of 0. Following the logic from the diagram, the expanded form is 6,000 + 900 + 2."
-            },
-            {
-                "question_text": "Look at the 'Expanded Form' box on the left. The diagram shows that the number 5,904 has '0 tens'. Why is the number '0' left out of the final addition sentence, 5,000 + 900 + 4?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Because adding zero does not change the total value of the number."
-                    },
-                    {
-                        "label": "B",
-                        "text": "Because the diagram made a mistake and forgot to include it."
-                    },
-                    {
-                        "label": "C",
-                        "text": "Because you only write the first two numbers and the last number."
-                    },
-                    {
-                        "label": "D",
-                        "text": "Because expanded form can't have more than three numbers added together."
+                        "text": "Ten seventy-eight"
                     }
                 ],
                 "correct_option_label": "A",
-                "explanation": "Correct! As shown in step 3 in the 'Expanded Form' box, there is a zero in the tens place. When we write a number in expanded form, we are showing the value of each digit. Since the value of the zero is just zero, adding it to the other values (5,000 + 900 + 4 + 0) doesn't change the final answer, so we can leave it out to write it more simply."
+                "explanation": "The abacus represents 1078. In words, this is 'One thousand seventy-eight'. Option B represents 1708, C represents 178, and D is not a standard way to write numbers."
             },
             {
-                "question_text": "In the 'Verbal Form' box, the picture gives an important tip: 'Don't say 'zero' or 'and'!' Following the example shown for 5,904, how would you correctly write the number 7,060 in verbal form?",
+                "question_text": "The image displays a number broken down by its place values: 4 thousands, 5 hundreds, 0 tens, and 3 ones. Which of the following represents the number in expanded form?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Seven thousand and sixty."
+                        "text": "4000 + 500 + 30 + 0"
                     },
                     {
                         "label": "B",
-                        "text": "Seven thousand, zero hundred sixty."
+                        "text": "4000 + 500 + 3"
                     },
                     {
                         "label": "C",
-                        "text": "Seven sixty."
+                        "text": "4500 + 3"
                     },
                     {
                         "label": "D",
-                        "text": "Seven thousand, sixty."
+                        "text": "4 + 5 + 0 + 3"
                     }
                 ],
-                "correct_option_label": "D",
-                "explanation": "Great job! The diagram shows that when there is a zero in a place value, we just skip it when we read the number out loud. For 5,904, we skip the tens place. For the number 7,060, we would say 'seven thousand' for the 7, skip the hundreds place because of the 0, and then say 'sixty' for the 60. This gives us 'Seven thousand, sixty'."
-            },
-            {
-                "question_text": "Look at the pictures of the blocks used in the 'Expanded Form' box. A large cube is used for 5,000, flat shapes are used for 900, and small single cubes are for 4. If you were to build the number 3,205 using these same types of blocks, what would you need?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "3 large cubes, 2 flat shapes, and 5 small cubes."
-                    },
-                    {
-                        "label": "B",
-                        "text": "3 flat shapes, 2 tens sticks, and 5 small cubes."
-                    },
-                    {
-                        "label": "C",
-                        "text": "5 large cubes, 0 flat shapes, 2 tens sticks, and 3 small cubes."
-                    },
-                    {
-                        "label": "D",
-                        "text": "3 large cubes, 2 flat shapes, and 5 tens sticks."
-                    }
-                ],
-                "correct_option_label": "A",
-                "explanation": "That's right! By analyzing the diagram, we see that large cubes represent thousands, flat shapes represent hundreds, and small single cubes represent ones. To build 3,205, you would need 3 thousands (3 large cubes), 2 hundreds (2 flat shapes), 0 tens, and 5 ones (5 small cubes)."
+                "correct_option_label": "B",
+                "explanation": "The number 4503 in expanded form is 4000 + 500 + 3. The tens place has a value of 0, so it is not included in the sum."
             }
         ]
     },
@@ -499,6 +430,524 @@
                 ],
                 "correct_option_label": "A",
                 "explanation": "That's right! The picture shows a pattern. For Ascending order (going up), the '<' (less than) symbol is used to show the number on the left is smaller than the next number on the right. For Descending order (going down), the '>' (greater than) symbol is used to show the number on the left is larger than the next one on the right."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.",
+        "questions": [
+            {
+                "question_text": "Look at the diagram. If the moon appears as a fully illuminated circle, what phase is being depicted?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Crescent"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The Full Moon occurs when the entire side of the Moon facing Earth is illuminated by the Sun, making it appear as a complete circle."
+            },
+            {
+                "question_text": "Based on the diagram showing the moon's orbit, if the moon is currently in its First Quarter phase (half-illuminated on the right side), what phase will it enter next?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Gibbous"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waxing Gibbous"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Third Quarter"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "After the First Quarter, the illuminated portion of the moon continues to grow, leading to the Waxing Gibbous phase, where more than half of the moon is lit but not yet full."
+            },
+            {
+                "question_text": "Consider the diagram illustrating the Earth, Moon, and Sun. The different apparent shapes of the moon (phases) are primarily caused by:",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Earth's shadow falling on the moon."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The moon changing its actual shape."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The varying amount of the moon's sunlit side visible from Earth as it orbits."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Clouds in Earth's atmosphere obscuring parts of the moon."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Moon phases are a result of our perspective from Earth, observing different portions of the moon's sunlit surface as it orbits our planet. The moon itself does not change shape, and Earth's shadow only causes eclipses, not regular phases."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "Based on the diagram showing the moon's illumination, which phase is represented when the moon appears as a thin sliver of light on its right side, just after the New Moon?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Crescent"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waxing Gibbous"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "A Waxing Crescent occurs after the New Moon, where a small, increasing sliver of light is visible on the right side as it moves towards the First Quarter."
+            },
+            {
+                "question_text": "Look at the image depicting the moon's phases. If the moon is currently in the First Quarter phase, which phase will it enter next?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Gibbous"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waxing Gibbous"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Last Quarter"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "After the First Quarter, the illuminated portion of the moon continues to grow, leading to the Waxing Gibbous phase, where more than half of the moon is lit."
+            },
+            {
+                "question_text": "Consider the diagram illustrating the moon's phases. Which description accurately matches the appearance of a Waning Gibbous moon?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Less than half of the moon is illuminated, and the illuminated portion is decreasing."
+                    },
+                    {
+                        "label": "B",
+                        "text": "More than half of the moon is illuminated, and the illuminated portion is increasing."
+                    },
+                    {
+                        "label": "C",
+                        "text": "More than half of the moon is illuminated, and the illuminated portion is decreasing."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Exactly half of the moon is illuminated, and it's visible on the left side."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "A Waning Gibbous moon occurs after the Full Moon. In this phase, more than half of the moon is illuminated, but the illuminated portion is shrinking each night as it moves towards the Last Quarter."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "Look at the image. Which phase of the moon is represented when the moon appears fully illuminated?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Last Quarter"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The Full Moon occurs when the entire face of the moon visible from Earth is illuminated by the sun, appearing as a complete circle."
+            },
+            {
+                "question_text": "Based on the diagram, what phase is shown when only a small sliver of the moon is illuminated, appearing as a crescent shape after the New Moon?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Gibbous"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waning Crescent"
+                    },
+                    {
+                        "label": "D",
+                        "text": "First Quarter"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "A Waxing Crescent moon is seen after the New Moon, when a small, increasing portion of the moon's right side becomes illuminated, forming a crescent shape."
+            },
+            {
+                "question_text": "In the diagram, if the moon appears half-illuminated on its right side, what phase is being depicted?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Third Quarter"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The First Quarter moon occurs when half of the moon's face is illuminated, specifically the right half as seen from the Northern Hemisphere, and it is increasing in illumination."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "Look at the image of the pH scale. Which of the following statements accurately describes the pH scale?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "A pH of 7 indicates a strong acid."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Solutions with a pH greater than 7 are acidic."
+                    },
+                    {
+                        "label": "C",
+                        "text": "A pH of 0-6 indicates an acidic solution."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pure water has a pH of 14."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The pH scale ranges from 0 to 14. Values from 0 to less than 7 are acidic, 7 is neutral, and values greater than 7 to 14 are basic (alkaline)."
+            },
+            {
+                "question_text": "Based on the diagram showing common substances and their pH values, which substance is the strongest acid?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Lemon juice (pH 2)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Black coffee (pH 5)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Milk (pH 6.5)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Stomach acid (pH 1)"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "The lower the pH value, the stronger the acid. Stomach acid has the lowest pH among the given options."
+            },
+            {
+                "question_text": "Consider the image displaying various household items and their corresponding pH levels. Which of the following substances is a strong base?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Baking soda (pH 8.5)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Ammonia solution (pH 11)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Seawater (pH 8)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Drain cleaner (pH 14)"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "The higher the pH value (closer to 14), the stronger the base. Drain cleaner has a pH of 14, indicating it is a strong base."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "Look at the image showing a pH scale. Which region represents a strong acid?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "pH 1-3"
+                    },
+                    {
+                        "label": "B",
+                        "text": "pH 6-8"
+                    },
+                    {
+                        "label": "C",
+                        "text": "pH 11-13"
+                    },
+                    {
+                        "label": "D",
+                        "text": "pH 7"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "Strong acids have very low pH values, typically between 1 and 3."
+            },
+            {
+                "question_text": "Based on the diagram illustrating the properties of solutions, what would you expect to be true for a solution with a pH of 9?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It has a high concentration of H+ ions."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is a strong acid."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It has a high concentration of OH- ions."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is neutral."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "A pH of 9 indicates a basic solution. Basic solutions have a higher concentration of hydroxide (OH-) ions than hydrogen (H+) ions."
+            },
+            {
+                "question_text": "Consider the image depicting various common substances and their pH values. Which substance shown would turn blue litmus paper red?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Ammonia (pH 11)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Pure Water (pH 7)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Lemon Juice (pH 2)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Baking Soda Solution (pH 9)"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Substances that turn blue litmus paper red are acidic. Among the given options, lemon juice with a pH of 2 is strongly acidic."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "Look at the image of the roller coaster. At which point (A, B, C, or D) would the roller coaster car have the greatest potential energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Top of the first hill"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Bottom of the first hill"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Middle of the second hill"
+                    },
+                    {
+                        "label": "D",
+                        "text": "End of the track (flat section)"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "Potential energy is greatest when an object is at its highest point. The top of the first hill is the highest point on the track, so the roller coaster car has the most potential energy there."
+            },
+            {
+                "question_text": "Based on the diagram, at which point (A, B, C, or D) would the roller coaster car have the greatest kinetic energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Top of the first hill"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Bottom of the first hill"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Top of the second hill"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Halfway up the first hill"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Kinetic energy is the energy of motion. As the roller coaster car moves down a hill, potential energy is converted into kinetic energy. The lowest point on the track (bottom of the first hill) is where all the potential energy from the initial height has been converted into kinetic energy, assuming negligible friction."
+            },
+            {
+                "question_text": "As the roller coaster car moves from the top of the first hill down towards the bottom, what energy transformation is primarily occurring?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Kinetic energy is being converted into potential energy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Potential energy is being converted into kinetic energy."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Thermal energy is being converted into kinetic energy."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Chemical energy is being converted into potential energy."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "As the roller coaster car descends, its height decreases, meaning its potential energy decreases. Simultaneously, its speed increases, meaning its kinetic energy increases. This demonstrates the conversion of potential energy into kinetic energy."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "Based on the diagram of the roller coaster, at which point does the roller coaster car have the *most* potential energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Point A (the highest point of the first hill)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Point B (halfway down the first hill)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Point C (the lowest point after the first drop)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Point D (climbing the second hill)"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "Potential energy is highest when an object is at its maximum height. Point A represents the highest point on the roller coaster track."
+            },
+            {
+                "question_text": "Look at the image. Where would the roller coaster car likely have the *most* kinetic energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Point A (the highest point of the first hill)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Point B (halfway down the first hill)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Point C (the lowest point after the first drop)"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Point D (climbing the second hill)"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Kinetic energy is highest when an object is moving at its maximum speed. This typically occurs at the lowest point of a drop, where potential energy has been maximally converted to kinetic energy."
+            },
+            {
+                "question_text": "As the roller coaster car moves from the highest point (A) down to the lowest point (C) in the diagram, what energy transformation primarily occurs?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Kinetic energy is converted to potential energy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Potential energy is converted to kinetic energy."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Thermal energy is converted to kinetic energy."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Chemical energy is converted to potential energy."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "During a descent on a roller coaster, the car loses height, decreasing its potential energy. This lost potential energy is converted into kinetic energy, causing the car to speed up."
             }
         ]
     }

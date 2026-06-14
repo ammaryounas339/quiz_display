@@ -77,73 +77,73 @@
         "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
         "questions": [
             {
-                "question_text": "Look at the Camel Caravan. The first camel carries 4,000, the third carries 30, and the last carries 5. If you combine these sacks to check the destination, what is the total number?",
+                "question_text": "You've entered a new level! The 'Number Portal' glows with the number '2,345'. Which of the following scrolls and crystal blocks correctly represent its verbal and expanded forms?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "4,305"
+                        "text": "Verbal: \"two thousand three hundred forty-five\", Expanded: \"2000 + 300 + 40 + 5\""
                     },
                     {
                         "label": "B",
-                        "text": "4,035"
+                        "text": "Verbal: \"two thousand three hundred fifty-four\", Expanded: \"2000 + 300 + 40 + 5\""
                     },
                     {
                         "label": "C",
-                        "text": "4,350"
+                        "text": "Verbal: \"two thousand three hundred forty-five\", Expanded: \"2000 + 300 + 50 + 4\""
                     },
                     {
                         "label": "D",
-                        "text": "4,005"
+                        "text": "Verbal: \"two thousand three hundred fifty-four\", Expanded: \"2000 + 300 + 50 + 4\""
                     }
                 ],
-                "correct_option_label": "B",
-                "explanation": "To find the standard form, we add the expanded parts: 4,000 + 30 + 5. There are no hundreds, so we put a 0 in the hundreds place. The total is 4,035."
+                "correct_option_label": "A",
+                "explanation": "The number 2,345 in verbal form is 'two thousand three hundred forty-five' and in expanded form is '2000 + 300 + 40 + 5'."
             },
             {
-                "question_text": "Look at the gap in the line between the 4,000 camel and the 30 camel. There is no camel carrying 'Hundreds'. What digit does this represent in the final number?",
+                "question_text": "The 'Number Portal' now displays 'seven thousand one hundred twelve'. Which combination of standard and expanded forms will unlock the next portal?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "1"
+                        "text": "Standard: \"7,112\", Expanded: \"7000 + 100 + 10 + 2\""
                     },
                     {
                         "label": "B",
-                        "text": "100"
+                        "text": "Standard: \"7,121\", Expanded: \"7000 + 100 + 10 + 2\""
                     },
                     {
                         "label": "C",
-                        "text": "0"
+                        "text": "Standard: \"7,112\", Expanded: \"7000 + 100 + 20 + 1\""
                     },
                     {
                         "label": "D",
-                        "text": "9"
+                        "text": "Standard: \"7,121\", Expanded: \"7000 + 100 + 20 + 1\""
                     }
                 ],
-                "correct_option_label": "C",
-                "explanation": "In place value, if a value (like hundreds) is missing from the expanded form, we must use the digit 0 as a placeholder in that spot (4, _ 3 5)."
+                "correct_option_label": "A",
+                "explanation": "The verbal form 'seven thousand one hundred twelve' corresponds to the standard form '7,112' and the expanded form '7000 + 100 + 10 + 2'."
             },
             {
-                "question_text": "Compare the lead camel to the last camel. Why is the first camel so much larger than the last one?",
+                "question_text": "A crystal block flashes with '5000 + 600 + 70 + 8'. To earn your 'Digit Gems', which scroll and 'Number Portal' display the correct standard and verbal forms?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Because 4,000 is one thousand times greater than 4."
+                        "text": "Standard: \"5,678\", Verbal: \"five thousand six hundred seventy-eight\""
                     },
                     {
                         "label": "B",
-                        "text": "Because the Thousands place has a much higher value than the Ones place."
+                        "text": "Standard: \"5,687\", Verbal: \"five thousand six hundred seventy-eight\""
                     },
                     {
                         "label": "C",
-                        "text": "Because it is older."
+                        "text": "Standard: \"5,678\", Verbal: \"five thousand six hundred eighty-seven\""
                     },
                     {
                         "label": "D",
-                        "text": "Because 5 is actually larger than 4,000."
+                        "text": "Standard: \"5,687\", Verbal: \"five thousand six hundred eighty-seven\""
                     }
                 ],
-                "correct_option_label": "B",
-                "explanation": "The position of a digit determines its value. The 4 is in the Thousands place (value 4,000), while the 5 is in the Ones place (value 5). Thousands are much larger than Ones."
+                "correct_option_label": "A",
+                "explanation": "The expanded form '5000 + 600 + 70 + 8' represents the standard form '5,678' and the verbal form 'five thousand six hundred seventy-eight'."
             }
         ]
     },
@@ -294,7 +294,7 @@
                 "explanation": "Quadrant II has negative x (left) and positive y (up). Player F (-4, 3) fits this description."
             },
             {
-                "question_text": "The drone flies in a straight line from the Warehouse (origin) to the Target Delivery (6, 8). Assuming a linear path, which equation represents the drone’s flight trajectory?",
+                "question_text": "The drone flies in a straight line from the Warehouse (origin) to the Target Delivery (6, 8). Assuming a linear path, which equation represents the drone\u2019s flight trajectory?",
                 "options": [
                     {
                         "label": "A",
@@ -411,7 +411,525 @@
                     }
                 ],
                 "correct_option_label": "C",
-                "explanation": "To find the percentage, divide the Part (45) by the Whole (60). 45 ÷ 60 = 0.75, which is 75%."
+                "explanation": "To find the percentage, divide the Part (45) by the Whole (60). 45 \u00f7 60 = 0.75, which is 75%."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.",
+        "questions": [
+            {
+                "question_text": "You've just started your 'Lunar Navigator' mission! The game pauses, and the 3D model of the Moon appears completely dark, blending almost perfectly with the night sky. From Earth, it seems as though there's no moon visible at all. Which phase of the moon are you observing?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Gibbous"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The New Moon occurs when the Moon is between the Earth and the Sun, so the side facing Earth is not illuminated by the Sun, making it appear dark or invisible from Earth."
+            },
+            {
+                "question_text": "Your 'Lunar Navigator' journey continues! The game pauses again, and this time, the 3D model of the Moon is brilliantly illuminated, appearing as a complete, bright circle in the virtual sky. Which phase of the moon is currently highlighted?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Last Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Gibbous"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The Full Moon occurs when the Earth is between the Moon and the Sun, allowing the entire face of the Moon visible from Earth to be fully illuminated by the Sun."
+            },
+            {
+                "question_text": "As you progress through the 'Lunar Navigator' mission, the game pauses to show the Moon. You observe that exactly half of the Moon's face is illuminated, specifically the right half, forming a perfect semi-circle. Which phase of the moon are you seeing?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Crescent"
+                    },
+                    {
+                        "label": "B",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Third Quarter"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "During the First Quarter phase, the Moon has completed one-quarter of its orbit around Earth. From Earth, we see exactly half of the Moon illuminated, with the right side appearing bright."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "You observe the Moon shortly after a New Moon. Only a small sliver of its right side is illuminated, forming a crescent shape that is growing larger each night. What phase is this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Crescent"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "New Moon"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "A Waxing Crescent moon is seen after the New Moon, with a small, illuminated crescent on the right side that is growing larger as it approaches the First Quarter."
+            },
+            {
+                "question_text": "As you continue your journey, you see the entire face of the Moon brightly illuminated, appearing as a perfect circle in the night sky. What phase is this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waning Gibbous"
+                    },
+                    {
+                        "label": "D",
+                        "text": "New Moon"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The Full Moon occurs when the entire side of the Moon facing Earth is illuminated by the Sun, appearing as a complete circle."
+            },
+            {
+                "question_text": "You notice that exactly half of the Moon's face is illuminated, but it's the left half that is bright, and the illuminated portion is shrinking each night. What phase is this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Third Quarter (Last Quarter)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waxing Gibbous"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Gibbous"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "During the Third Quarter (or Last Quarter) phase, the left half of the Moon is illuminated, and the illuminated portion is decreasing as it heads towards the New Moon."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "A holographic projection shows a thin sliver of light visible on the right side of the moon. You observe that this illuminated portion appears to be growing larger each night. Which phase of the moon is this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waning Gibbous"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Full Moon"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "The Waxing Crescent phase occurs after the New Moon, when a small sliver of the moon becomes visible and grows larger as it moves towards the First Quarter."
+            },
+            {
+                "question_text": "The holographic projection displays the entire face of the moon brightly illuminated, appearing as a perfect circle in the night sky. Which phase of the moon are you seeing?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Last Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "New Moon"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The Full Moon phase is when the entire side of the moon facing Earth is illuminated by the sun, appearing as a complete circle."
+            },
+            {
+                "question_text": "In this round, exactly half of the moon is illuminated on the left side. You notice that the illuminated portion appears to be shrinking each night. What phase of the moon is this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Waxing Gibbous"
+                    },
+                    {
+                        "label": "B",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Last Quarter"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Crescent"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The Last Quarter (or Third Quarter) phase occurs when the left half of the moon is illuminated and the illuminated portion is decreasing as it heads towards the New Moon."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "As a 'pH Potion Master,' you test a 'glowing fruit' with your digital pH meter and get a reading of 3.5. What property does this 'glowing fruit' possess?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is a strong base."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is an acid."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is a neutral substance."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is a weak base."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Substances with a pH value less than 7 are considered acidic. A pH of 3.5 indicates an acidic substance."
+            },
+            {
+                "question_text": "You encounter a 'bubbling rock' and use your virtual pH indicator strip. The strip turns a deep blue, and your digital meter confirms a pH of 11.2. What can you conclude about the 'bubbling rock'?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is a strong acid."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is a neutral substance."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is a base."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is a weak acid."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Substances with a pH value greater than 7 are considered basic (alkaline). A pH of 11.2 clearly indicates a basic substance, and a deep blue on an indicator strip is typical for bases."
+            },
+            {
+                "question_text": "In your quest to master the pH scale, you test two mysterious concoctions. Concoction X has a pH of 6.8, and Concoction Y has a pH of 8.1. Which of the following statements is true?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Concoction X is a strong acid, and Concoction Y is a strong base."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Concoction X is slightly acidic, and Concoction Y is slightly basic."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both Concoction X and Concoction Y are neutral."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Concoction X is basic, and Concoction Y is acidic."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "A pH of 6.8 is slightly below 7, making Concoction X slightly acidic. A pH of 8.1 is slightly above 7, making Concoction Y slightly basic. Strong acids have very low pH (e.g., 1-2), and strong bases have very high pH (e.g., 12-14)."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "You dip a pH strip into a mysterious potion. The strip immediately turns a vibrant red. According to your pH Potion Master guide, what does this color indicate about the potion?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The potion is a strong base."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The potion is a neutral substance."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The potion is a strong acid."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The potion is a weak base."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "A vibrant red color on a pH strip typically indicates a strong acid, as acids have pH values below 7, and stronger acids show more intense red colors."
+            },
+            {
+                "question_text": "You use the advanced digital pH meter on another unknown liquid. The display reads 'pH 12.5'. How should you classify this potion and where would you place it on the giant pH scale?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It's a strong acid, placed on the far left (0-3) of the scale."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It's a neutral substance, placed in the middle (around 7) of the scale."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It's a strong base, placed on the far right (11-14) of the scale."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It's a weak acid, placed just below the middle (4-6) of the scale."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "A pH reading of 12.5 is significantly above 7, indicating a strong base. Strong bases are located on the far right of the pH scale (typically 11-14)."
+            },
+            {
+                "question_text": "You encounter a potion that feels slippery to the touch and has a distinctly bitter taste (you cautiously tasted a tiny drop, of course!). When you add a few drops of a known acid to it, it fizzes vigorously. How would you classify this potion?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is an acid."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is a base."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is a neutral substance."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is a salt solution."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Bases are typically slippery to the touch, have a bitter taste, and react with acids (often producing fizzing due to gas release, like CO2 if it's a carbonate base). Acids react with bases, not other acids in this manner. Neutral substances do not exhibit these properties."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "In 'Energy Coaster Tycoon', you've just built the first hill of your roller coaster. As the coaster car is slowly pulled to the very top of this hill, what is true about its energy state just before it begins its descent?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Its kinetic energy is at its maximum, and potential energy is at its minimum."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Its potential energy is at its maximum, and kinetic energy is at its minimum."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both kinetic and potential energy are at their maximum."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Both kinetic and potential energy are at their minimum."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "At the highest point of the track, the coaster has the greatest height, meaning its potential energy is maximized. Since it's just about to descend (or moving very slowly if being pulled up), its speed is minimal, making its kinetic energy minimal."
+            },
+            {
+                "question_text": "Your coaster car is speeding down a steep drop in 'Energy Coaster Tycoon'. According to the on-screen meters, what energy transformation is primarily occurring during this part of the ride?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Kinetic energy is being converted into potential energy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Potential energy is being converted into kinetic energy."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Thermal energy is being converted into kinetic energy."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Chemical energy is being converted into potential energy."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "As the coaster car goes down a steep drop, its height decreases, causing its potential energy to decrease. Simultaneously, its speed increases, meaning its kinetic energy increases. This demonstrates the conversion of potential energy into kinetic energy."
+            },
+            {
+                "question_text": "You're designing a challenging level in 'Energy Coaster Tycoon' that requires the coaster car to achieve maximum kinetic energy at the very bottom of a large loop. At this specific point, what would you expect the 'Potential Energy' meter to show?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It would be at its maximum reading."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It would be at its minimum reading."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It would show a fluctuating reading."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It would be exactly half of its maximum reading."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "At the very bottom of a loop, the coaster car is at its lowest point relative to the rest of the track (or a reference point). Since potential energy is dependent on height, at the lowest point, the potential energy will be at its minimum. This allows for the maximum conversion of potential energy into kinetic energy, resulting in maximum speed."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "In the 'Energy Coaster Challenge' game, your roller coaster car has just reached the very top of the first hill. According to the game's visual indicators, which energy meter would be almost completely full at this point?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Kinetic Energy (yellow)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Potential Energy (blue)"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Thermal Energy"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Sound Energy"
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "At the highest point of the roller coaster, the car has maximum potential energy due to its height, which is represented by the filling blue 'Potential Energy' meter in the game."
+            },
+            {
+                "question_text": "After a steep descent in the 'Energy Coaster Challenge', your roller coaster car is now at the lowest point of the track, moving at its fastest speed. Which energy meter would be predominantly full, and what visual cue would confirm this?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Potential Energy (blue), showing stored energy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Kinetic Energy (yellow), with speed lines indicating high velocity."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both Potential and Kinetic Energy meters would be half full."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Neither meter would be full, as energy is lost."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "At the lowest point after a descent, potential energy has been converted into kinetic energy, resulting in maximum speed. The game indicates this with a filling yellow 'Kinetic Energy' meter and speed lines."
+            },
+            {
+                "question_text": "You are observing your roller coaster car in the 'Energy Coaster Challenge' as it goes down a hill. The 'Kinetic Energy' (yellow) meter is rapidly filling up. What does this imply about the 'Potential Energy' (blue) meter?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is also filling up, as both energies increase together."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is emptying, as potential energy is being converted into kinetic energy."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It remains unchanged, as potential energy is only affected by height."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It becomes irrelevant once the car starts moving."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "As the roller coaster car descends, its height decreases, causing its potential energy to decrease (the blue meter empties). This potential energy is transformed into kinetic energy, causing the car to speed up (the yellow meter fills), demonstrating the inverse relationship between the two."
             }
         ]
     }

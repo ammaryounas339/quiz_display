@@ -77,73 +77,73 @@
         "indicator": "2. Reading and writing numbers up to four digits in standard, verbal and expanded forms.",
         "questions": [
             {
-                "question_text": "A secret agent needs to crack a 4-digit code. The clue she found says the code is the sum of these numbers: 600 + 7 + 9,000. What is the code in standard form?",
+                "question_text": "What is the verbal form of the number 3,452?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "679"
+                        "text": "Three thousand four hundred fifty-two"
                     },
                     {
                         "label": "B",
-                        "text": "9,607"
+                        "text": "Thirty-four hundred fifty-two"
                     },
                     {
                         "label": "C",
-                        "text": "6,007"
+                        "text": "Three thousand four hundred and fifty-two"
                     },
                     {
                         "label": "D",
-                        "text": "9,067"
+                        "text": "Three thousand four hundred five two"
+                    }
+                ],
+                "correct_option_label": "A",
+                "explanation": "The number 3,452 is read as \"three thousand four hundred fifty-two\"."
+            },
+            {
+                "question_text": "Which number represents \"seven thousand one hundred nine\" in standard form?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "7,190"
+                    },
+                    {
+                        "label": "B",
+                        "text": "7,109"
+                    },
+                    {
+                        "label": "C",
+                        "text": "719"
+                    },
+                    {
+                        "label": "D",
+                        "text": "7,019"
                     }
                 ],
                 "correct_option_label": "B",
-                "explanation": "To find the standard form, you need to add the values for each place. The number has 9 in the thousands place (9,000), 6 in the hundreds place (600), 0 in the tens place (since no tens are mentioned), and 7 in the ones place (7). This makes the number 9,607."
+                "explanation": "\"Seven thousand one hundred nine\" is written as 7,109. The '0' is important in the tens place."
             },
             {
-                "question_text": "The highest mountain in a fictional land is 'seven thousand, six hundred two' feet tall. Which of the following shows the height of the mountain in standard form?",
+                "question_text": "What is the expanded form of the number 9,085?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "7,620"
+                        "text": "9000 + 80 + 5"
                     },
                     {
                         "label": "B",
-                        "text": "7,062"
+                        "text": "9000 + 800 + 5"
                     },
                     {
                         "label": "C",
-                        "text": "7,602"
+                        "text": "900 + 80 + 5"
                     },
                     {
                         "label": "D",
-                        "text": "762"
+                        "text": "9 + 0 + 8 + 5"
                     }
                 ],
-                "correct_option_label": "C",
-                "explanation": "The verbal form 'seven thousand, six hundred two' translates to digits. 'Seven thousand' is 7,000. 'Six hundred' is 600. 'Two' is 2. Since there are no tens mentioned, we use a 0 as a placeholder in the tens place. So, the number is 7,602."
-            },
-            {
-                "question_text": "Alex is comparing the populations of two small towns, Crestwood and Pine Valley. Crestwood's population is 8,000 + 400 + 3. Pine Valley's population is 'eight thousand, four hundred thirty.' Which statement is true?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Crestwood has a larger population."
-                    },
-                    {
-                        "label": "B",
-                        "text": "Pine Valley has a larger population."
-                    },
-                    {
-                        "label": "C",
-                        "text": "Both towns have the same population."
-                    },
-                    {
-                        "label": "D",
-                        "text": "Pine Valley's population is 8,403."
-                    }
-                ],
-                "correct_option_label": "B",
-                "explanation": "First, write both populations in standard form. Crestwood's population is 8,000 + 400 + 3 = 8,403. Pine Valley's population, 'eight thousand, four hundred thirty,' is 8,430. When you compare 8,430 and 8,403, you can see that 8,430 is the larger number."
+                "correct_option_label": "A",
+                "explanation": "The number 9,085 can be broken down as 9 thousands (9000), 0 hundreds, 8 tens (80), and 5 ones (5). So, 9000 + 80 + 5."
             }
         ]
     },
@@ -292,6 +292,524 @@
                 ],
                 "correct_option_label": "D",
                 "explanation": "The numbers are getting bigger with each step (5,567, 5,657, 5,675, 5,765). When numbers go from smallest to largest, it is called ascending order. The 'less than' symbol (<) is used to show that the number on the left is smaller than the number on the right."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon.",
+        "questions": [
+            {
+                "question_text": "What causes the different phases of the moon we observe from Earth?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Earth's shadow falling on the moon."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The moon rotating on its axis."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The changing angles at which we view the moon's illuminated surface as it orbits Earth."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Clouds blocking parts of the moon."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The phases of the moon are due to the changing angles at which we see the sunlit portion of the moon as it orbits Earth. The Earth's shadow causes lunar eclipses, not the regular phases."
+            },
+            {
+                "question_text": "Which moon phase is characterized by the entire face of the moon being illuminated?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Crescent"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "During a Full Moon, the entire side of the moon facing Earth is illuminated by the sun, making it appear as a complete circle."
+            },
+            {
+                "question_text": "Approximately how long does it take for the moon to complete one full cycle of phases (from New Moon to New Moon)?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "24 hours"
+                    },
+                    {
+                        "label": "B",
+                        "text": "7 days"
+                    },
+                    {
+                        "label": "C",
+                        "text": "29.5 days"
+                    },
+                    {
+                        "label": "D",
+                        "text": "365 days"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The moon takes approximately 29.5 days to complete one full cycle of phases, which is known as a synodic month. This is the time it takes for the moon to return to the same position relative to the Sun and Earth."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "What causes the different phases of the moon we observe from Earth?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Earth's shadow falling on the moon."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The moon rotating on its axis."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The changing angles at which we view the moon's illuminated surface as it orbits Earth."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Clouds blocking the moon from view."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The phases of the moon are caused by the changing angles at which we view the moon's illuminated surface as it orbits Earth. The moon itself is always half-lit by the sun, but we see different amounts of that lit portion depending on its position relative to the Earth and Sun."
+            },
+            {
+                "question_text": "Which of the following moon phases occurs when the entire side of the moon facing Earth is illuminated?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "New Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "First Quarter"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Waning Crescent"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The Full Moon phase occurs when the entire side of the moon facing Earth is illuminated by the sun, appearing as a complete circle in the sky."
+            },
+            {
+                "question_text": "As the moon orbits the Earth, its apparent shape changes. What is the term used to describe these different appearances of the moon?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Lunar eclipses"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Moon cycles"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Moon phases"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Orbital patterns"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The different appearances of the moon as it orbits the Earth are called moon phases. These phases are a result of the changing angles at which we see the sunlit portion of the moon."
+            }
+        ]
+    },
+    "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]": {
+        "indicator": "1. Describing the apparent shape of the moon during its rotation around the earth, and naming the different phases of the moon. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "What causes the different phases of the moon that we observe from Earth?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Earth's shadow falling on the moon."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The moon rotating on its own axis."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The changing angles at which we view the moon's illuminated surface as it orbits Earth."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Clouds in Earth's atmosphere blocking parts of the moon."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The phases of the moon are caused by the changing angles at which we see the sunlit portion of the moon as it orbits the Earth. The moon itself is always half-lit by the sun, but from Earth, we see varying amounts of that illuminated half."
+            },
+            {
+                "question_text": "Which moon phase immediately follows a New Moon, where the moon is not visible from Earth?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Full Moon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Waning Crescent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Waxing Crescent"
+                    },
+                    {
+                        "label": "D",
+                        "text": "First Quarter"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "After a New Moon, the moon begins to become visible again as a thin sliver, which is called a Waxing Crescent. 'Waxing' means increasing in illumination."
+            },
+            {
+                "question_text": "How does the apparent shape of the moon change as it completes one orbit around the Earth?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It always looks like a perfect circle, just brighter or dimmer."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It appears to change shape from a thin sliver to a full circle and back again."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It changes color depending on the season."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It only appears as a crescent, never full."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "As the moon orbits the Earth, the amount of its sunlit surface visible from Earth changes, causing its apparent shape to cycle through phases from a New Moon (invisible) to a Full Moon (fully illuminated) and back, including crescents, quarters, and gibbous shapes."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "What does a pH value of 2 indicate?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "A strong base"
+                    },
+                    {
+                        "label": "B",
+                        "text": "A neutral solution"
+                    },
+                    {
+                        "label": "C",
+                        "text": "A strong acid"
+                    },
+                    {
+                        "label": "D",
+                        "text": "A weak base"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "The pH scale ranges from 0-14. Values below 7 are acidic, 7 is neutral, and above 7 are basic. A pH of 2 is significantly below 7, indicating a strong acid."
+            },
+            {
+                "question_text": "Which of the following is a characteristic property of an acid?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Feels slippery to the touch"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Turns red litmus paper blue"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Has a bitter taste"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Reacts with metals to produce hydrogen gas"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "Acids react with active metals to produce hydrogen gas. Bases feel slippery and turn red litmus blue. Bases often have a bitter taste, while acids typically have a sour taste."
+            },
+            {
+                "question_text": "A solution with a pH of 13 would be classified as:",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Strongly acidic"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Neutral"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Weakly acidic"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Strongly basic"
+                    }
+                ],
+                "correct_option_label": "D",
+                "explanation": "A pH value of 13 is significantly above 7, indicating a strong base. Values closer to 7 (but above) would be weakly basic, and values below 7 are acidic."
+            }
+        ]
+    },
+    "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]": {
+        "indicator": "Identifying the properties of acids and bases and understanding the pH scale [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "Which of the following is a characteristic property of an acid?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Has a slippery feel"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Turns red litmus paper blue"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Has a sour taste"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Has a pH greater than 7"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Acids are known for their sour taste. Slippery feel and turning red litmus blue are properties of bases, and a pH greater than 7 indicates a basic solution."
+            },
+            {
+                "question_text": "Which of the following statements is true about a base?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It has a pH value less than 7"
+                    },
+                    {
+                        "label": "B",
+                        "text": "It turns blue litmus paper red"
+                    },
+                    {
+                        "label": "C",
+                        "text": "It often feels slippery to the touch"
+                    },
+                    {
+                        "label": "D",
+                        "text": "It reacts with metals to produce hydrogen gas"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Bases typically have a slippery, soapy feel. A pH less than 7 is acidic, turning blue litmus red is a property of acids, and while some bases react with metals, the slippery feel is a more general characteristic."
+            },
+            {
+                "question_text": "What does a pH value of 7 indicate on the pH scale?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The solution is strongly acidic"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The solution is strongly basic"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The solution is neutral"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The solution is slightly acidic"
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "On the pH scale, a pH of 7 represents a neutral solution, such as pure water. Values below 7 are acidic, and values above 7 are basic."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gemini-3-pro-image]",
+        "questions": [
+            {
+                "question_text": "At which point on a roller coaster is its potential energy typically at its maximum?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "At the very bottom of a drop."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Just before it begins to climb the first hill."
+                    },
+                    {
+                        "label": "C",
+                        "text": "At the peak of the highest hill."
+                    },
+                    {
+                        "label": "D",
+                        "text": "While it is moving at its fastest speed."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Potential energy is stored energy due to an object's position or state. For a roller coaster, gravitational potential energy is highest when the coaster is at its greatest height."
+            },
+            {
+                "question_text": "When does a roller coaster typically have its maximum kinetic energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "At the top of the highest hill."
+                    },
+                    {
+                        "label": "B",
+                        "text": "When it is stopped at the loading station."
+                    },
+                    {
+                        "label": "C",
+                        "text": "At the lowest point of a drop, just before starting to climb again."
+                    },
+                    {
+                        "label": "D",
+                        "text": "While slowly ascending the first hill."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "Kinetic energy is the energy of motion. A roller coaster has maximum kinetic energy when it is moving at its highest speed, which typically occurs at the lowest point of a drop due to the conversion of potential energy into kinetic energy."
+            },
+            {
+                "question_text": "As a roller coaster car descends from the top of a hill, what happens to its kinetic and potential energy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Both kinetic and potential energy increase."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Kinetic energy decreases, and potential energy increases."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Kinetic energy increases, and potential energy decreases."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Both kinetic and potential energy remain constant."
+                    }
+                ],
+                "correct_option_label": "C",
+                "explanation": "As the roller coaster descends, its height decreases, causing its potential energy to convert into kinetic energy, thus increasing its speed and kinetic energy."
+            }
+        ]
+    },
+    "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]": {
+        "indicator": "Understanding the difference between kinetic and potential energy in a physical system like a roller coaster. [gpt-image-2]",
+        "questions": [
+            {
+                "question_text": "At which point on a roller coaster track is its gravitational potential energy typically at its maximum, and its kinetic energy at its minimum (assuming it starts from rest or near rest)?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "At the bottom of the first drop."
+                    },
+                    {
+                        "label": "B",
+                        "text": "At the top of the highest hill."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Midway down a hill."
+                    },
+                    {
+                        "label": "D",
+                        "text": "On a flat section of track."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "Gravitational potential energy is highest when an object is at its greatest height. Kinetic energy is lowest when the object's speed is minimal, which is typically at the peak of the highest hill before it starts to accelerate downwards."
+            },
+            {
+                "question_text": "As a roller coaster car descends from the top of a hill, what primary energy transformation occurs?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Kinetic energy is converted into potential energy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Potential energy is converted into kinetic energy."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Thermal energy is converted into kinetic energy."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Chemical energy is converted into potential energy."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "As the roller coaster car goes down a hill, its height decreases (decreasing potential energy) and its speed increases (increasing kinetic energy). This demonstrates the conversion of potential energy into kinetic energy."
+            },
+            {
+                "question_text": "If a roller coaster car has a certain amount of kinetic energy at the bottom of a hill, what can be said about its potential energy at that same point (relative to the ground)?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Its potential energy is at its maximum."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Its potential energy is at its minimum."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Its potential energy is equal to its kinetic energy."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Its potential energy is zero, regardless of height."
+                    }
+                ],
+                "correct_option_label": "B",
+                "explanation": "At the bottom of a hill, the roller coaster car is at its lowest point (or one of its lowest points) relative to the ground, meaning its gravitational potential energy is at its minimum. Its kinetic energy, however, is typically at its maximum due to the conversion from potential energy."
             }
         ]
     }
